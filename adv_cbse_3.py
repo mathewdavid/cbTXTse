@@ -9,7 +9,6 @@ except ModuleNotFoundError:
 import pandas as pd
 import re
 import io
-import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="CBSE Result Extractor", layout="wide", page_icon="📘")
 
